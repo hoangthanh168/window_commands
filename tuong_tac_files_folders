@@ -1,0 +1,2 @@
+Xuất tên files và folders ra một file text
+dir /b > output.txt
